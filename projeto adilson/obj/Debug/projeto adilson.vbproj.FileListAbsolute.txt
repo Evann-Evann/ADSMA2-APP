@@ -1,0 +1,44 @@
+C:\Users\Evandro\Desktop\adilson\projeto adilson\projeto adilson\obj\Debug\projeto adilson.vbproj.AssemblyReference.cache
+C:\Users\Evandro\Desktop\adilson\projeto adilson\projeto adilson\obj\Debug\Interop.ADODB.dll
+C:\Users\Evandro\Desktop\adilson\projeto adilson\projeto adilson\obj\Debug\projeto adilson.vbproj.ResolveComReference.cache
+C:\Users\Evandro\Desktop\adilson\projeto adilson\projeto adilson\obj\Debug\projeto_adilson.frm_banco_ferramentas.resources
+C:\Users\Evandro\Desktop\adilson\projeto adilson\projeto adilson\obj\Debug\projeto_adilson.frm_cadastro_usuario.resources
+C:\Users\Evandro\Desktop\adilson\projeto adilson\projeto adilson\obj\Debug\projeto_adilson.frm_login.resources
+C:\Users\Evandro\Desktop\adilson\projeto adilson\projeto adilson\obj\Debug\projeto_adilson.frm_menu.resources
+C:\Users\Evandro\Desktop\adilson\projeto adilson\projeto adilson\obj\Debug\projeto_adilson.Resources.resources
+C:\Users\Evandro\Desktop\adilson\projeto adilson\projeto adilson\obj\Debug\projeto adilson.vbproj.GenerateResource.cache
+C:\Users\Evandro\Desktop\adilson\projeto adilson\projeto adilson\obj\Debug\projeto adilson.vbproj.CoreCompileInputs.cache
+C:\Users\Evandro\Desktop\adilson\projeto adilson\projeto adilson\obj\Debug\projeto_adilson.frm_cadastro_ferramenta.resources
+C:\Users\Evandro\Desktop\adilson\projeto adilson\projeto adilson\bin\Debug\projeto adilson.exe.config
+C:\Users\Evandro\Desktop\adilson\projeto adilson\projeto adilson\bin\Debug\projeto adilson.exe
+C:\Users\Evandro\Desktop\adilson\projeto adilson\projeto adilson\bin\Debug\projeto adilson.pdb
+C:\Users\Evandro\Desktop\adilson\projeto adilson\projeto adilson\bin\Debug\projeto adilson.xml
+C:\Users\Evandro\Desktop\adilson\projeto adilson\projeto adilson\obj\Debug\projeto_adilson.frm_entrada.resources
+C:\Users\Evandro\Desktop\adilson\projeto adilson\projeto adilson\obj\Debug\projeto_adilson.frm_manutencao.resources
+C:\Users\Evandro\Desktop\adilson\projeto adilson\projeto adilson\obj\Debug\projeto_adilson.frm_saida.resources
+C:\Users\Evandro\Desktop\adilson\projeto adilson\projeto adilson\obj\Debug\projeto adilson.exe
+C:\Users\Evandro\Desktop\adilson\projeto adilson\projeto adilson\obj\Debug\projeto adilson.xml
+C:\Users\Evandro\Desktop\adilson\projeto adilson\projeto adilson\obj\Debug\projeto adilson.pdb
+C:\Users\Evandro\Desktop\adilson\projeto adilson\projeto adilson\obj\Debug\projeto_adilson.frm_banco_srm.resources
+C:\Users\Evandro\Desktop\SHIMIZU\projeto\projeto adilson\bin\Debug\projeto adilson.exe.config
+C:\Users\Evandro\Desktop\SHIMIZU\projeto\projeto adilson\bin\Debug\projeto adilson.exe
+C:\Users\Evandro\Desktop\SHIMIZU\projeto\projeto adilson\bin\Debug\projeto adilson.pdb
+C:\Users\Evandro\Desktop\SHIMIZU\projeto\projeto adilson\bin\Debug\projeto adilson.xml
+C:\Users\Evandro\Desktop\SHIMIZU\projeto\projeto adilson\obj\Debug\projeto adilson.vbproj.AssemblyReference.cache
+C:\Users\Evandro\Desktop\SHIMIZU\projeto\projeto adilson\obj\Debug\Interop.ADODB.dll
+C:\Users\Evandro\Desktop\SHIMIZU\projeto\projeto adilson\obj\Debug\projeto adilson.vbproj.ResolveComReference.cache
+C:\Users\Evandro\Desktop\SHIMIZU\projeto\projeto adilson\obj\Debug\projeto_adilson.frm_banco_srm.resources
+C:\Users\Evandro\Desktop\SHIMIZU\projeto\projeto adilson\obj\Debug\projeto_adilson.frm_banco_ferramentas.resources
+C:\Users\Evandro\Desktop\SHIMIZU\projeto\projeto adilson\obj\Debug\projeto_adilson.frm_cadastro_ferramenta.resources
+C:\Users\Evandro\Desktop\SHIMIZU\projeto\projeto adilson\obj\Debug\projeto_adilson.frm_cadastro_usuario.resources
+C:\Users\Evandro\Desktop\SHIMIZU\projeto\projeto adilson\obj\Debug\projeto_adilson.frm_entrada.resources
+C:\Users\Evandro\Desktop\SHIMIZU\projeto\projeto adilson\obj\Debug\projeto_adilson.frm_login.resources
+C:\Users\Evandro\Desktop\SHIMIZU\projeto\projeto adilson\obj\Debug\projeto_adilson.frm_manutencao.resources
+C:\Users\Evandro\Desktop\SHIMIZU\projeto\projeto adilson\obj\Debug\projeto_adilson.frm_menu.resources
+C:\Users\Evandro\Desktop\SHIMIZU\projeto\projeto adilson\obj\Debug\projeto_adilson.frm_saida.resources
+C:\Users\Evandro\Desktop\SHIMIZU\projeto\projeto adilson\obj\Debug\projeto_adilson.Resources.resources
+C:\Users\Evandro\Desktop\SHIMIZU\projeto\projeto adilson\obj\Debug\projeto adilson.vbproj.GenerateResource.cache
+C:\Users\Evandro\Desktop\SHIMIZU\projeto\projeto adilson\obj\Debug\projeto adilson.vbproj.CoreCompileInputs.cache
+C:\Users\Evandro\Desktop\SHIMIZU\projeto\projeto adilson\obj\Debug\projeto adilson.exe
+C:\Users\Evandro\Desktop\SHIMIZU\projeto\projeto adilson\obj\Debug\projeto adilson.xml
+C:\Users\Evandro\Desktop\SHIMIZU\projeto\projeto adilson\obj\Debug\projeto adilson.pdb
